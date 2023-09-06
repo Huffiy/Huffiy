@@ -1,4 +1,4 @@
-# Sup! :3 <img src="https://github.com/Huffiy/Huffiy/raw/main/wave.gif" width="30px" height="30px" />
+# Sup! <img src="https://github.com/Huffiy/Huffiy/raw/main/wave.gif" width="30px" height="30px" />
 
 <div align="center">
 <a href="https://discord.com/users/676116835506192394" >
