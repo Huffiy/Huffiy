@@ -1,9 +1,7 @@
 # Sup! <img src="https://github.com/Huffiy/Huffiy/raw/main/wave.gif" width="30px" height="30px" />
 
 <div align="center">
-<a href="https://discord.com/users/676116835506192394" >
-   <img src="https://lanyard.kyrie25.me/api/676116835506192394?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4"  />
-</a>
+
 
 ## 🔧 OS and IDEs
 ![](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
